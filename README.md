@@ -52,36 +52,24 @@ Since **Pranvi often updates** her opinions on movies, the system must support m
 📌 **Endpoint:** `GET /movies`  
 📌 **Functionality:** Returns a list of movies along with their reviews.  
 📌 **Screenshot:**  
-![Returns a list of movies along with their reviews](./Returns_a_list_of_movies.png)  
+![Returns a list of movies along with their reviews](https://github.com/rutikbodke333/movie-review-system/blob/main/Returns%20a%20list%20of%20movies%20along%20with%20their%20reviews.png?raw=true)  
 
 ### 2️⃣ Add a Movie  
 📌 **Endpoint:** `POST /movies`  
 📌 **Functionality:** Accepts movie details and stores them in the database.  
 📌 **Screenshot:**  
-![Accepts movie details and stores them](./Accepts_movie_details.png)  
+![Accepts movie details and stores them](https://github.com/rutikbodke333/movie-review-system/blob/main/Accepts%20movie%20details%20and%20stores%20them%20in%20the%20database..png?raw=true)  
 
 ### 3️⃣ Add a Review for a Movie  
 📌 **Endpoint:** `POST /movies/{movieId}/reviews`  
 📌 **Functionality:** Accepts a review and associates it with a given movie.  
 📌 **Screenshot:**  
-![Accepts a review and associates it](./Accepts_a_review.png)  
+![Accepts a review and associates it](https://github.com/rutikbodke333/movie-review-system/blob/main/Accepts%20a%20review%20and%20associates%20it%20with%20a%20given%20movie.png?raw=true)  
 
 ### 4️⃣ Update a Review  
 📌 **Endpoint:** `PUT /reviews/{reviewId}`  
 📌 **Functionality:** Updates the review comment and rating.  
 📌 **Screenshot:**  
-![Updates the review comment and rating](./Updates_the_review.png)  
+![Updates the review comment and rating](https://github.com/rutikbodke333/movie-review-system/blob/main/Updates%20the%20review%20comment%20and%20rating..png?raw=true)  
 
----
 
-## Completing the Task  
-
-Now that you have a plan, it's time to **make it happen**:  
-
-✅ **Build the APIs** that will power Pranvi’s movie review system.  
-✅ **Push your code** to a **GitHub repository**.  
-✅ **Submit the repository URL** in the provided textbox.  
-
-With your solution in place, **Pranvi can efficiently manage her reviews, engage with her audience, and grow her YouTube channel.**  
-
-Will **you** rise to the challenge and be the **hero** she needs? 🚀🎥  
