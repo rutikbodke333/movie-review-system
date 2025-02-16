@@ -3,8 +3,8 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7-green)  
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)  
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange)  
-![Swagger](https://img.shields.io/badge/Swagger-UI-yellow)  
 ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black)  
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)  
 
 ## Be the Hero for Pranvi, the YouTube Reviewer  
 
@@ -20,7 +20,7 @@ That's where **you** come in! As a **backend developer**, it's your mission to b
 
 - **Backend:** Spring Boot, JPA (Hibernate), RESTful APIs  
 - **Database:** MySQL  
-- **API Documentation:** Swagger UI  
+- **API Testing:** Postman  
 - **Version Control:** Git & GitHub  
 
 ---
@@ -51,25 +51,30 @@ Since **Pranvi often updates** her opinions on movies, the system must support m
 ### 1️⃣ Get All Movies with Reviews  
 📌 **Endpoint:** `GET /movies`  
 📌 **Functionality:** Returns a list of movies along with their reviews.  
+📌 **Tested with:** Postman  
 📌 **Screenshot:**  
 ![Returns a list of movies along with their reviews](https://github.com/rutikbodke333/movie-review-system/blob/main/Returns%20a%20list%20of%20movies%20along%20with%20their%20reviews.png?raw=true)  
 
 ### 2️⃣ Add a Movie  
 📌 **Endpoint:** `POST /movies`  
 📌 **Functionality:** Accepts movie details and stores them in the database.  
+📌 **Tested with:** Postman  
 📌 **Screenshot:**  
 ![Accepts movie details and stores them](https://github.com/rutikbodke333/movie-review-system/blob/main/Accepts%20movie%20details%20and%20stores%20them%20in%20the%20database..png?raw=true)  
 
 ### 3️⃣ Add a Review for a Movie  
 📌 **Endpoint:** `POST /movies/{movieId}/reviews`  
 📌 **Functionality:** Accepts a review and associates it with a given movie.  
+📌 **Tested with:** Postman  
 📌 **Screenshot:**  
 ![Accepts a review and associates it](https://github.com/rutikbodke333/movie-review-system/blob/main/Accepts%20a%20review%20and%20associates%20it%20with%20a%20given%20movie.png?raw=true)  
 
 ### 4️⃣ Update a Review  
 📌 **Endpoint:** `PUT /reviews/{reviewId}`  
 📌 **Functionality:** Updates the review comment and rating.  
+📌 **Tested with:** Postman  
 📌 **Screenshot:**  
 ![Updates the review comment and rating](https://github.com/rutikbodke333/movie-review-system/blob/main/Updates%20the%20review%20comment%20and%20rating..png?raw=true)  
 
+---
 
