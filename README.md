@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black)  
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)  
 
-## Be the Hero for Pranvi, the YouTube Reviewer  
+ 
 
 ### The Challenge  
 
